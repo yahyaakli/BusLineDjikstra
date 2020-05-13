@@ -1,0 +1,24 @@
+#### position des stations sur un plan 2D correspondant au plan de l'enonce
+#### format: nom de station	x	y
+#### les champs sont separes par une tabulation (separateur)
+A1	350	600
+A2	700	600
+A3	1000	950
+A4	1300	1200
+A5	1900	1200
+A6	2300	850
+A7	2600	1100
+A8	2900	1550
+B1	700	2000
+B2	1100	1800
+B3	1100	1550
+B4	1600	700
+B5	1900	300
+B6	2600	300
+C1	350	1000
+C2	950	300
+C3	1400	300
+C4	2300	1300
+C5	2300	1800
+C6	1700	1800
+C7	700	1400

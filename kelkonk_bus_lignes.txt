@@ -1,0 +1,65 @@
+#### Ligne A direction A1->A8, codé par A-a
+A-a:A1
+A-a:A2
+A-a:A3
+A-a:A4
+A-a:A5
+A-a:A6
+A-a:A7
+A-a:A8
+
+#### Ligne A direction A8->A1, codé par A-b
+A-b:A8
+A-b:A7
+A-b:A6
+A-b:A5
+A-b:A4
+A-b:A3
+A-b:A2
+A-b:A1
+
+#### Ligne B direction B1->B6, codé par B-a
+B-a:B1
+B-a:B2
+B-a:B3
+B-a:A4
+B-a:B4
+B-a:B5
+B-a:B6
+
+#### Ligne B direction B6->B1, codé par B-b
+B-b:B6
+B-b:B5
+B-b:B4
+B-b:A4
+B-b:B3
+B-b:B2
+B-b:B1
+
+#### Ligne C direction sens de rotation de montre C1->A2 -> ... C7, codé par C-a
+C-a:C1
+C-a:A2
+C-a:C2
+C-a:C3
+C-a:B5
+C-a:A6
+C-a:C4
+C-a:C5
+C-a:C6
+C-a:B2
+C-a:C7
+C-a:C1
+
+#### Ligne C direction C7->B2-> ... C1, codé par C-b
+C-b:C7
+C-b:B2
+C-b:C6
+C-b:C5
+C-b:C4
+C-b:A6
+C-b:B5
+C-b:C3
+C-b:C2
+C-b:A2
+C-b:C1
+C-b:C7
